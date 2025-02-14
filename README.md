@@ -1,7 +1,11 @@
 # Schedule-Creator
 A schedule creator used to create timetables for a summer camp. Created using python and the Qt Library.
 
+<img width="1368" alt="Screenshot 2025-02-14 at 12 24 12 AM" src="https://github.com/user-attachments/assets/d3d7dca1-3748-4de9-9bea-4a4549ddebcd" />
+
 # Running The Program
+
+
 To run the program simply execute the script *ui.py*.
 
 # Program Information
